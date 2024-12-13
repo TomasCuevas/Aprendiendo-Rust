@@ -1,0 +1,32 @@
+# Archivos generados por Cargo
+target/
+**/*.rs.bk
+
+# Archivos de metadatos y configuraciones locales de Cargo
+.cargo
+Cargo.lock
+
+# Archivos generados por compiladores o herramientas de depuración
+*.d
+*.dSYM
+*.stackdump
+*.su
+*.exe
+*.pdb
+
+# Archivos temporales o intermedios
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# Archivos generados por editores/IDEs comunes
+/.idea/
+/.vscode/
+/*.log
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+*.~lock.*
